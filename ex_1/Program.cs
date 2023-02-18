@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Ку пидоры");
